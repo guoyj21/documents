@@ -36,3 +36,5 @@ How we pull content into the editor
 osapi.jive.core.container.editor().insert(content)
 ```
 
+[Online cources](http://www.csdn.net/article/2015-02-05/2823859/2)
+
